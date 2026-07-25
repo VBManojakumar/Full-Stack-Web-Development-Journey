@@ -1,0 +1,32 @@
+# 📅 Day 1 - Introduction to Web Development
+
+## 📖 Topics Covered
+- Introduction to Web Development
+- Introduction to HTML
+- Introduction to CSS
+- Introduction to JavaScript
+
+## 📚 What I Learned
+
+### HTML (HyperText Markup Language)
+- HTML is used to create the structure of a web page.
+- It defines elements such as headings, paragraphs, images, links, and forms.
+
+### CSS (Cascading Style Sheets)
+- CSS is used to style HTML elements.
+- It controls colors, fonts, layouts, spacing, and responsive design.
+
+### JavaScript
+- JavaScript is used to make web pages interactive.
+- It adds functionality such as button clicks, form validation, animations, and dynamic content.
+
+## 🌐 Relationship Between HTML, CSS, and JavaScript
+
+HTML → Structure of the webpage  
+CSS → Design and styling  
+JavaScript → Functionality and interactivity
+
+## 🎯 Day 1 Summary
+Today, I learned the fundamentals of web development and understood the roles of HTML, CSS, and JavaScript in building modern websites.
+
+🚀 Looking forward to learning HTML in depth tomorrow!
