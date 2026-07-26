@@ -1,0 +1,67 @@
+# 📅 Day 31 – HTML Revision
+
+Today I revised the fundamental concepts of **HTML (HyperText Markup Language)**, strengthening my understanding of how web pages are structured and built.
+
+---
+
+## 📚 Topics Revised
+
+- HTML Document Structure (`<!DOCTYPE html>`)
+- HTML Elements & Tags
+- Headings (`<h1>` to `<h6>`)
+- Paragraphs (`<p>`)
+- Text Formatting Tags
+  - `<b>`, `<strong>`
+  - `<i>`, `<em>`
+  - `<u>`, `<mark>`
+  - `<small>`, `<del>`, `<ins>`
+- Lists
+  - Ordered Lists (`<ol>`)
+  - Unordered Lists (`<ul>`)
+  - Description Lists (`<dl>`)
+- Hyperlinks (`<a>`)
+- Images (`<img>`)
+- Tables (`<table>`)
+- Forms
+  - Input Types
+  - Labels
+  - Buttons
+  - Textarea
+  - Select & Option
+- Semantic HTML
+  - `<header>`
+  - `<nav>`
+  - `<section>`
+  - `<article>`
+  - `<aside>`
+  - `<footer>`
+- Div and Span
+- HTML Attributes
+- Comments
+- HTML Entities
+
+---
+
+## 💻 Practice Completed
+
+✔ Created basic webpage layouts
+
+✔ Practiced forms with different input types
+
+✔ Built tables with rows and columns
+
+✔ Added images and hyperlinks
+
+✔ Used semantic tags for better page structure
+
+✔ Revised nested lists and formatting tags
+
+---
+
+## 🎯 Key Takeaways
+
+- HTML provides the structure of every webpage.
+- Semantic elements improve accessibility and SEO.
+- Forms are used to collect user input.
+- Tables organize data efficiently.
+- Clean HTML makes websites easier to maintain.
