@@ -1,0 +1,68 @@
+# 📅 Day 3 - HTML Basics
+
+## 📚 Topics Covered
+- Introduction to HTML
+- HTML Document Structure
+- HTML Headings (`<h1>` to `<h6>`)
+- Paragraph Tag (`<p>`)
+- Line Break (`<br>`)
+- Horizontal Rule (`<hr>`)
+- HTML Comments
+
+---
+
+## 💻 Practical Exercises
+
+### ✅ Exercise 1: Student Details Webpage
+Created a webpage that displays:
+- My Name
+- My College
+- My Course
+- My Goal
+
+**Concepts Used:**
+- `<!DOCTYPE html>`
+- `<html>`
+- `<head>`
+- `<title>`
+- `<body>`
+- `<h1>` to `<h2>`
+- `<p>`
+- `<hr>`
+
+---
+
+### ✅ Exercise 2: HTML Headings and Paragraphs
+Created a webpage using:
+- Heading tags (`<h1>` to `<h6>`)
+- Three paragraphs
+- Horizontal Rule (`<hr>`)
+
+**Concepts Used:**
+- Heading tags
+- Paragraph tag
+- Line Break (`<br>`)
+- Horizontal Rule (`<hr>`)
+
+---
+
+### ✅ Exercise 3: My First HTML Page
+Created a simple webpage titled **"My First HTML Page"** containing:
+- One main heading
+- Personal information
+- Two paragraphs
+- One line break
+- One horizontal rule
+
+**Concepts Used:**
+- HTML document structure
+- Headings
+- Paragraphs
+- Line Break
+- Horizontal Rule
+---
+
+## 🚀 Day 3 Summary
+Today, I learned the fundamentals of HTML and built three practice webpages to strengthen my understanding of HTML document structure and basic tags.
+
+**Next:** HTML Text Formatting Tags.
