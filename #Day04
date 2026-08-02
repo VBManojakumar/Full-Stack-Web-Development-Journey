@@ -1,0 +1,68 @@
+# 📅 Day 4 - HTML Text Formatting Tags
+
+## 📚 Topics Covered
+- Bold (`<b>`)
+- Strong (`<strong>`)
+- Italic (`<i>`)
+- Emphasized (`<em>`)
+- Mark (`<mark>`)
+- Small (`<small>`)
+- Deleted (`<del>`)
+- Inserted (`<ins>`)
+- Subscript (`<sub>`)
+- Superscript (`<sup>`)
+
+---
+
+## 💻 Practical Exercises
+
+### ✅ Exercise 1: Student Details
+Created a webpage displaying:
+- Name in **bold**
+- Course in *italic*
+- College using `<strong>`
+- Goal using `<em>`
+
+**Concepts Used:**
+- `<b>`
+- `<strong>`
+- `<i>`
+- `<em>`
+
+---
+
+### ✅ Exercise 2: Product Price
+Created a webpage showing:
+- Original price using `<del>`
+- Discounted price
+
+**Concepts Used:**
+- `<del>`
+
+---
+
+### ✅ Exercise 3: Scientific Expressions
+Displayed:
+- H₂O
+- CO₂
+- x² + y²
+- (a + b)²
+
+**Concepts Used:**
+- `<sub>`
+- `<sup>`
+
+---
+
+## 🎯 What I Learned
+- Formatted text using HTML tags.
+- Understood the difference between visual tags (`<b>`, `<i>`) and semantic tags (`<strong>`, `<em>`).
+- Highlighted, deleted, and inserted text.
+- Displayed scientific formulas and mathematical expressions using subscript and superscript tags.
+
+---
+
+## 🚀 Day 4 Summary
+Today, I learned how to format text in HTML using different formatting tags. I also practiced creating webpages that use bold, italic, emphasized, highlighted, deleted, inserted, subscript, and superscript text.
+
+**Next:** HTML Lists (Ordered, Unordered, and Description Lists).
