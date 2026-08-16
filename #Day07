@@ -1,1 +1,104 @@
-.........
+# 📅 Day 7 - HTML Tables
+
+##  Topics Covered
+
+- HTML Tables
+- Table Rows (`<tr>`)
+- Table Headers (`<th>`)
+- Table Data (`<td>`)
+- Table Caption (`<caption>`)
+- Table Head (`<thead>`)
+- Table Body (`<tbody>`)
+- Table Footer (`<tfoot>`)
+- Column Spanning (`colspan`)
+- Row Spanning (`rowspan`)
+
+---
+
+##  Practical Exercises
+
+###  Exercise 1 - Student Details
+
+Created a table containing student information:
+
+- Name
+- Course
+- Age
+
+**Concepts Used:**
+- `<table>`
+- `<tr>`
+- `<th>`
+- `<td>`
+
+---
+
+###  Exercise 2 - Student Marks
+
+Created a student marks table containing:
+
+- Student Name
+- Python
+- HTML
+- CSS
+- Total
+
+Added multiple students to practice displaying structured data.
+
+---
+
+###  Exercise 3 - Column Spanning
+
+Created a table with a heading spanning across multiple columns.
+
+**Concept Used:**
+- `colspan`
+
+---
+
+###  Exercise 4 - Row Spanning
+
+Created a timetable using cells that span across multiple rows.
+
+**Concept Used:**
+- `rowspan`
+
+---
+
+###  Exercise 5 - Student Marksheet
+
+Created a student marksheet using:
+
+- Table caption
+- Table header
+- Table body
+- Table footer
+- Rows and columns
+- Column spanning
+
+**Concepts Used:**
+- `<caption>`
+- `<thead>`
+- `<tbody>`
+- `<tfoot>`
+- `<tr>`
+- `<th>`
+- `<td>`
+- `colspan`
+
+---
+
+##  What I Learned
+
+- Learned how to create tables in HTML.
+- Understood rows, headers, and data cells.
+- Learned how to organize tables using `<thead>`, `<tbody>`, and `<tfoot>`.
+- Learned how `colspan` combines multiple columns.
+- Learned how `rowspan` combines multiple rows.
+- Practiced creating real-world tables such as student marksheets and timetables.
+
+---
+
+##  Day 7 Summary
+
+Today, I learned how to represent structured information using HTML tables. I practiced creating student details, marksheets, and timetables while learning how to span rows and columns.
