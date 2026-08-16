@@ -1,1 +1,98 @@
-............
+# 📅 Day 5 - HTML Lists
+
+##  Topics Covered
+
+- Unordered Lists (`<ul>`)
+- Ordered Lists (`<ol>`)
+- List Items (`<li>`)
+- Description Lists (`<dl>`)
+- Description Terms (`<dt>`)
+- Description Details (`<dd>`)
+- Nested Lists
+
+---
+
+##  Practical Exercises
+
+### Exercise 1 - My Skills
+
+Created an unordered list to display my technical skills.
+
+**Concepts Used:**
+- `<ul>`
+- `<li>`
+
+---
+
+### Exercise 2 - Learning Roadmap
+
+Created an ordered list to display my Full Stack Web Development learning steps.
+
+**Concepts Used:**
+- `<ol>`
+- `<li>`
+
+---
+
+### Exercise 3 - Full Stack Technologies
+
+Created a nested list to organize technologies into:
+
+- Frontend
+- Backend
+- Database
+
+**Concepts Used:**
+- `<ul>`
+- `<li>`
+- Nested Lists
+
+---
+
+### Exercise 4 - Web Technologies
+
+Created a description list explaining:
+
+- HTML
+- CSS
+- JavaScript
+- React
+
+**Concepts Used:**
+- `<dl>`
+- `<dt>`
+- `<dd>`
+
+---
+
+### Exercise 5 - Full Stack Development Roadmap
+
+Created a complete webpage combining different types of HTML lists.
+
+**Concepts Used:**
+- `<h1>`
+- `<h2>`
+- `<ul>`
+- `<ol>`
+- `<li>`
+- `<dl>`
+- `<dt>`
+- `<dd>`
+- Nested Lists
+
+---
+
+## What I Learned
+
+- Learned how to create unordered and ordered lists.
+- Learned how to create description lists.
+- Understood how `<li>` works inside lists.
+- Learned how to create nested lists.
+- Practiced organizing information using HTML lists.
+- Understood when to use different types of lists.
+
+---
+
+## 🚀 Day 5 Summary
+
+Today, I learned how to organize and display information using different types of HTML lists. I practiced unordered lists, ordered lists, description lists, and nested lists through multiple exercises.
