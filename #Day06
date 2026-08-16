@@ -1,1 +1,109 @@
-........
+# 📅 Day 6 - HTML Links & Images
+
+##  Topics Covered
+
+- Anchor Tag (`<a>`)
+- `href` Attribute
+- `target="_blank"`
+- Relative Links
+- Email Links (`mailto:`)
+- Phone Links (`tel:`)
+- Image Tag (`<img>`)
+- `src` Attribute
+- `alt` Attribute
+- Image Dimensions
+- Clickable Images
+
+---
+
+##  Practical Exercises
+
+###  Exercise 1 - Favorite Websites
+
+Created a webpage containing links to:
+
+- Google
+- YouTube
+- GitHub
+- LinkedIn
+
+Used `target="_blank"` to open the websites in new tabs.
+
+**Concepts Used:**
+- `<a>`
+- `href`
+- `target`
+
+---
+
+###  Exercise 2 - Personal Website Navigation
+
+Created three connected HTML pages:
+
+- Home
+- About
+- Contact
+
+The pages can navigate between each other using relative links.
+
+**Concepts Used:**
+- `<a>`
+- Relative paths
+- `href`
+
+---
+
+###  Exercise 3 - Images
+
+Created a webpage containing three images.
+
+For each image, practiced:
+
+- `src`
+- `alt`
+- `width`
+
+---
+
+###  Exercise 4 - Clickable Image
+
+Created a clickable image that opens another website in a new browser tab.
+
+**Concepts Used:**
+- `<a>`
+- `<img>`
+- `href`
+- `target="_blank"`
+
+---
+
+###  Exercise 5 - My Profile
+
+Created a personal profile webpage containing:
+
+- Profile image
+- Name
+- Course
+- Career goal
+- Skills
+- Website links
+
+Combined previously learned HTML concepts with links and images.
+
+---
+
+##  What I Learned
+
+- Learned how to create hyperlinks using the anchor tag.
+- Learned how to connect multiple HTML pages.
+- Learned how to open links in a new tab.
+- Learned how to add images to webpages.
+- Understood the importance of the `alt` attribute.
+- Learned how to make images clickable.
+- Practiced organizing files and folders for a webpage.
+
+---
+
+##  Day 6 Summary
+
+Today, I learned how to add links and images to HTML webpages. I also practiced connecting multiple webpages and creating clickable images.
