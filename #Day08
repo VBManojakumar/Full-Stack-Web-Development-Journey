@@ -1,1 +1,174 @@
-.........
+# 📅 Day 8 - HTML Forms
+
+## 📚 Topics Covered
+
+- HTML Forms (`<form>`)
+- Input Element (`<input>`)
+- Labels (`<label>`)
+- Input Types
+  - Text
+  - Email
+  - Password
+  - Number
+  - Date
+  - Radio
+  - Checkbox
+  - Submit
+  - Reset
+- Dropdown Lists (`<select>`)
+- Options (`<option>`)
+- Textarea (`<textarea>`)
+- Buttons (`<button>`)
+- `placeholder`
+- `required`
+- `name`
+- `value`
+- `id`
+- `for`
+- Form `action`
+- Form `method`
+
+---
+
+## 💻 Practical Exercises
+
+### ✅ Exercise 1 - Simple Login Form
+
+Created a login form containing:
+
+- Email
+- Password
+- Login button
+
+**Concepts Used:**
+- `<form>`
+- `<label>`
+- `<input>`
+- `type="email"`
+- `type="password"`
+- `type="submit"`
+
+---
+
+### ✅ Exercise 2 - Student Registration Form
+
+Created a student registration form containing:
+
+- Name
+- Email
+- Password
+- Age
+- Date of Birth
+- Gender
+- Course
+- Address
+- Submit button
+- Reset button
+
+**Concepts Used:**
+- Different input types
+- Radio buttons
+- Dropdown lists
+- Textarea
+- Form buttons
+
+---
+
+### ✅ Exercise 3 - Skills Form
+
+Created a form that allows users to select multiple skills.
+
+Skills included:
+
+- HTML
+- CSS
+- JavaScript
+- Python
+- Java
+
+**Concepts Used:**
+- Checkboxes
+- Labels
+- Form inputs
+
+---
+
+### ✅ Exercise 4 - Feedback Form
+
+Created a feedback form containing:
+
+- Name
+- Email
+- Rating
+- Feedback message
+- Submit button
+
+**Concepts Used:**
+- `<input>`
+- `<select>`
+- `<option>`
+- `<textarea>`
+- `<button>`
+
+---
+
+### ⭐ Exercise 5 - Student Admission Form
+
+Created a complete student admission form containing:
+
+#### Personal Details
+- Full Name
+- Email
+- Phone Number
+- Date of Birth
+- Gender
+
+#### Education Details
+- Course
+- Previous Qualification
+
+#### Skills
+- HTML
+- CSS
+- JavaScript
+- Python
+- Java
+
+#### Address
+- Textarea for address details
+
+#### Form Controls
+- Submit button
+- Reset button
+
+**Concepts Used:**
+- Form
+- Input elements
+- Labels
+- Radio buttons
+- Checkboxes
+- Dropdowns
+- Textarea
+- Buttons
+- `placeholder`
+- `required`
+
+---
+
+## 🎯 What I Learned
+
+- Learned how HTML forms collect user input.
+- Used different input types for different kinds of data.
+- Learned the difference between radio buttons and checkboxes.
+- Created dropdown lists using `<select>` and `<option>`.
+- Used `<textarea>` for multi-line input.
+- Connected labels and inputs using `for` and `id`.
+- Used `required` to make form fields mandatory.
+- Used `placeholder` to provide hints to users.
+- Learned the basic purpose of `action` and `method`.
+
+---
+
+## 🚀 Day 8 Summary
+
+Today, I learned how to create HTML forms and collect different types of user input. I practiced building login, registration, skills, feedback, and student admission forms.
