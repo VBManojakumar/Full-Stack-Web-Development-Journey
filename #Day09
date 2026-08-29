@@ -1,1 +1,92 @@
-............
+# 📅 Day 9 - HTML Semantic Elements
+
+## 📚 Topics Covered
+
+* Semantic HTML
+* `<header>`
+* `<nav>`
+* `<main>`
+* `<section>`
+* `<article>`
+* `<aside>`
+* `<footer>`
+
+---
+
+## 💻 Practical Exercises
+
+### ✅ Exercise 1 - Personal Website Structure
+
+Created a personal website structure using semantic HTML elements.
+
+The webpage includes:
+
+* Header
+* Navigation links
+* Main content
+* About section
+* Skills section
+* Footer
+
+**Concepts Used:**
+
+* `<header>`
+* `<nav>`
+* `<main>`
+* `<section>`
+* `<footer>`
+
+---
+
+### ✅ Exercise 2 - Blog Article
+
+Created a webpage containing a blog article titled:
+
+**"My Journey to Becoming a Full Stack Developer"**
+
+The webpage includes:
+
+* Header
+* Article
+* Aside section for related topics
+* Footer
+
+**Concepts Used:**
+
+* `<header>`
+* `<article>`
+* `<aside>`
+* `<footer>`
+
+---
+
+### ⭐ Exercise 3 - Complete Semantic Webpage
+
+Created a complete webpage using all the main semantic HTML elements.
+
+**Concepts Used:**
+
+* `<header>`
+* `<nav>`
+* `<main>`
+* `<section>`
+* `<article>`
+* `<aside>`
+* `<footer>`
+
+---
+
+## 🎯 What I Learned
+
+* Learned the meaning and importance of semantic HTML.
+* Understood how semantic elements improve webpage structure.
+* Learned the difference between `<section>` and `<article>`.
+* Learned how `<aside>` is used for related or secondary content.
+* Created webpages with a clear and meaningful structure.
+* Understood how semantic HTML improves accessibility and SEO.
+
+---
+
+## 🚀 Day 9 Summary
+
+Today, I learned how to structure webpages using semantic HTML elements. I practiced using `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<aside>`, and `<footer>` to create clean and meaningful webpage structures.
