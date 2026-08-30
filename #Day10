@@ -1,1 +1,102 @@
-...........
+# 📅 Day 10 - HTML Multimedia
+
+## 📚 Topics Covered
+
+* HTML Audio (`<audio>`)
+* HTML Video (`<video>`)
+* Source Element (`<source>`)
+* Audio Controls
+* Video Controls
+* Autoplay
+* Muted
+* Loop
+* Iframe (`<iframe>`)
+* YouTube Video Embedding
+* `allowfullscreen`
+
+---
+
+## 💻 Practical Exercises
+
+### ✅ Exercise 1 - Audio Player
+
+Created a webpage containing an audio player.
+
+**Concepts Used:**
+
+* `<audio>`
+* `<source>`
+* `controls`
+
+---
+
+### ✅ Exercise 2 - Video Player
+
+Created a webpage containing a video player.
+
+**Concepts Used:**
+
+* `<video>`
+* `<source>`
+* `controls`
+* `width`
+
+---
+
+### ✅ Exercise 3 - YouTube Video Embed
+
+Embedded a YouTube video using an iframe.
+
+**Concepts Used:**
+
+* `<iframe>`
+* `src`
+* `width`
+* `height`
+* `title`
+* `allowfullscreen`
+
+---
+
+### ⭐ Exercise 4 - Multimedia Webpage
+
+Created a complete multimedia webpage containing:
+
+* Audio section
+* Video section
+* YouTube video section
+* Audio controls
+* Video controls
+* Autoplay
+* Muted
+* Loop
+
+**Concepts Used:**
+
+* `<audio>`
+* `<video>`
+* `<source>`
+* `<iframe>`
+* `controls`
+* `autoplay`
+* `muted`
+* `loop`
+* `allowfullscreen`
+
+---
+
+## 🎯 What I Learned
+
+* Learned how to add audio to a webpage.
+* Learned how to add videos to a webpage.
+* Used the `<source>` element to specify media files.
+* Learned how to add controls to audio and video players.
+* Learned the purpose of `autoplay`, `muted`, and `loop`.
+* Learned how to embed YouTube videos using `<iframe>`.
+* Understood how `allowfullscreen` enables fullscreen viewing.
+
+---
+
+## 🚀 Day 10 Summary
+
+Today, I learned how to add multimedia content to HTML webpages. I practiced adding audio, video, and embedded YouTube videos using the `<audio>`, `<video>`, `<source>`, and `<iframe>` elements.
