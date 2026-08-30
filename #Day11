@@ -1,1 +1,103 @@
-..............
+# 📅 Day 11 - HTML Attributes & Global Attributes
+
+## 📚 Topics Covered
+
+* HTML Attributes
+* `id` Attribute
+* `class` Attribute
+* `title` Attribute
+* `style` Attribute
+* `hidden` Attribute
+* `data-*` Attributes
+* `lang` Attribute
+* `dir` Attribute
+* `tabindex` Attribute
+
+---
+
+## 💻 Practical Exercises
+
+### ✅ Exercise 1 - ID and Page Navigation
+
+Created a webpage with navigation links to different sections:
+
+* Home
+* About
+* Skills
+* Contact
+
+Used the `id` attribute and `href="#id-name"` to navigate between sections on the same webpage.
+
+**Concepts Used:**
+
+* `id`
+* `<a>`
+* `href`
+
+---
+
+### ✅ Exercise 2 - Class Attribute
+
+Created multiple elements using the same class.
+
+**Concepts Used:**
+
+* `class`
+* Multiple HTML elements with the same class name
+
+---
+
+### ✅ Exercise 3 - Global Attributes
+
+Created a webpage demonstrating different global attributes.
+
+**Attributes Used:**
+
+* `id`
+* `class`
+* `title`
+* `style`
+* `hidden`
+* `data-*`
+
+---
+
+### ⭐ Exercise 4 - Personal Profile Webpage
+
+Created a personal profile webpage using multiple HTML attributes.
+
+The webpage includes:
+
+* Navigation links using `id`
+* About section using `class` and `title`
+* Skills with the same class name
+* Contact information using `data-email` and `data-phone`
+* `lang="en"`
+* `tabindex`
+
+**Concepts Used:**
+
+* `id`
+* `class`
+* `title`
+* `data-*`
+* `lang`
+* `tabindex`
+
+---
+
+## 🎯 What I Learned
+
+* Learned that attributes provide additional information about HTML elements.
+* Understood the difference between `id` and `class`.
+* Learned how to navigate to different sections using `id`.
+* Learned how to group multiple elements using `class`.
+* Learned the purpose of global attributes.
+* Practiced using custom `data-*` attributes.
+* Learned about language, text direction, and keyboard focus attributes.
+
+---
+
+## 🚀 Day 11 Summary
+
+Today, I learned how HTML attributes provide additional information and functionality to HTML elements. I practiced using important global attributes such as `id`, `class`, `title`, `style`, `hidden`, `data-*`, `lang`, `dir`, and `tabindex`.
