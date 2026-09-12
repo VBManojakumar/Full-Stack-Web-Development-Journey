@@ -1,1 +1,144 @@
-.................
+# Day 13 - HTML Meta Tags
+
+## 📚 Topics Learned
+
+* HTML Meta Tags
+* `<meta charset>`
+* Viewport Meta Tag
+* Meta Description
+* Meta Keywords
+* Meta Author
+* `http-equiv`
+* Page Refresh
+* Responsive Webpage Basics
+
+---
+
+## 🔹 What are Meta Tags?
+
+Meta tags provide information about an HTML webpage to browsers, search engines, and other web technologies.
+
+Meta tags are placed inside the `<head>` section of an HTML document.
+
+Example:
+
+```html
+<meta name="description" content="My HTML learning journey">
+```
+
+Meta tags generally do not appear directly as visible content on the webpage.
+
+---
+
+## 🔹 Important Meta Tags
+
+### 1. Character Encoding
+
+```html
+<meta charset="UTF-8">
+```
+
+UTF-8 allows webpages to correctly represent a wide range of characters and languages.
+
+### 2. Viewport
+
+```html
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+```
+
+This helps webpages display correctly on different screen sizes and is important for responsive web development.
+
+### 3. Description
+
+```html
+<meta name="description" content="My HTML learning journey">
+```
+
+Provides a description of the webpage.
+
+### 4. Keywords
+
+```html
+<meta name="keywords" content="HTML, CSS, JavaScript, Web Development">
+```
+
+Specifies keywords related to the webpage.
+
+### 5. Author
+
+```html
+<meta name="author" content="Manoj">
+```
+
+Specifies the author of the webpage.
+
+### 6. Refresh
+
+```html
+<meta http-equiv="refresh" content="10">
+```
+
+Can be used to refresh the page after a specified number of seconds.
+
+---
+
+## 💻 Practice Exercises
+
+### Exercise 1 - Basic Meta Tags
+
+Created a webpage using:
+
+* Character encoding
+* Viewport
+* Description
+* Author
+* Title
+
+### Exercise 2 - Personal Webpage
+
+Created a personal webpage containing:
+
+* Name
+* College
+* Course
+* Skills
+* Career goal
+
+and added suitable meta tags.
+
+### Exercise 3 - Developer Webpage
+
+Created a developer profile webpage containing:
+
+* About information
+* Programming skills
+* Technologies
+* Career goal
+* Relevant meta tags
+
+### Exercise 4 - Meta Tags Practice
+
+Created a complete webpage using multiple meta tags and practiced placing them correctly inside the `<head>` section.
+
+---
+
+## 🧠 Key Learning
+
+Today I learned how meta tags provide information about webpages and how they are placed inside the `<head>` section.
+
+I also learned the importance of the viewport meta tag for responsive web development.
+
+---
+
+## 🎯 Concepts Practiced
+
+* `<meta>`
+* `charset`
+* `viewport`
+* `description`
+* `keywords`
+* `author`
+* `http-equiv`
+* Responsive Webpage Basics
+
+---
