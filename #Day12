@@ -1,1 +1,172 @@
-.................
+# Day 12 - HTML Entities & Symbols
+
+## 📚 Topics Learned
+
+* HTML Entities
+* Special Characters
+* HTML Symbols
+* Named Character Entities
+* Numeric Character References
+* Decimal Character References
+* Hexadecimal Character References
+* Currency Symbols
+* Copyright and Trademark Symbols
+* Mathematical Symbols
+* Emoji and Unicode Characters
+* Using `&lt;` and `&gt;` to display HTML tags as text
+
+---
+
+## 🔹 What are HTML Entities?
+
+HTML entities are special codes used to display characters that have a special meaning in HTML or characters that may not be easy to type directly.
+
+### Examples
+
+| Entity     | Output             |
+| ---------- | ------------------ |
+| `&lt;`     | `<`                |
+| `&gt;`     | `>`                |
+| `&amp;`    | `&`                |
+| `&quot;`   | `"`                |
+| `&apos;`   | `'`                |
+| `&nbsp;`   | Non-breaking space |
+| `&copy;`   | ©                  |
+| `&reg;`    | ®                  |
+| `&trade;`  | ™                  |
+| `&hearts;` | ♥                  |
+| `&euro;`   | €                  |
+| `&pound;`  | £                  |
+| `&yen;`    | ¥                  |
+| `&cent;`   | ¢                  |
+
+---
+
+## 🔢 Numeric Character References
+
+HTML entities can also be written using numeric character references.
+
+### Decimal Example
+
+```html
+&#169;
+```
+
+Output:
+
+©
+
+### Hexadecimal Example
+
+```html
+&#xA9;
+```
+
+Output:
+
+©
+
+Indian Rupee:
+
+```html
+&#8377;
+```
+
+Output:
+
+₹
+
+---
+
+## 💻 Practice Exercises
+
+### Exercise 1 - Basic Entities
+
+Practiced displaying:
+
+* `<`
+* `>`
+* `&`
+* `"`
+* `'`
+* ©
+* ®
+* ™
+* ♥
+
+using HTML entities.
+
+### Exercise 2 - Developer Information
+
+Practiced displaying HTML code as text using entities.
+
+Example:
+
+```html
+<p>HTML &lt;p&gt; is a paragraph tag.</p>
+```
+
+Output:
+
+HTML `<p>` is a paragraph tag.
+
+Also practiced:
+
+* HTML & CSS
+* Copyright information
+* Currency symbols
+* Special characters
+
+### Exercise 3 - Currency Symbols
+
+Created a table displaying different currencies:
+
+* Indian Rupee ₹
+* Dollar $
+* Euro €
+* Pound £
+* Yen ¥
+
+### Exercise 4 - Entity Practice Page
+
+Created a webpage containing different categories of entities and symbols:
+
+* Comparison symbols
+* Mathematical symbols
+* Currency symbols
+* Copyright and trademark symbols
+* Special characters
+* Emojis
+
+---
+
+## 🧠 Key Learning
+
+Today I learned how HTML entities are used to display special characters and symbols safely in webpages.
+
+I also learned how to display HTML tags as normal text using entities such as:
+
+```html
+&lt;
+&gt;
+```
+
+I learned that HTML entities can be written using both named entities and numeric character references.
+
+---
+
+## 🎯 Summary
+
+Day 12 helped me understand how special characters, symbols, and Unicode characters are represented in HTML.
+
+### Concepts Practiced
+
+* HTML Entities
+* Special Characters
+* Symbols
+* Unicode
+* Numeric Character References
+* Currency Symbols
+* HTML Tag Display
+
+---
